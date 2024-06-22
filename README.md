@@ -1,2 +1,3 @@
-# IBM-capstone-project-Dashboard
-Final Project IBM cognos Dashboard
+# IBM-capstone-project
+
+IBM cognos Dashboard
